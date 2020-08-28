@@ -7,7 +7,7 @@ public static void main(String[] args){
 		numero=entrada.nextInt();
 	for(int i=1; i <= 10; i++){
 		resultado=numero*i;
-		System.out.println( + numero + " * " + i + " : " + resultado);
+		System.out.println( + numero + " % " + i + " : " + resultado);
 
 	}
 		System.out.print("\n\n");
